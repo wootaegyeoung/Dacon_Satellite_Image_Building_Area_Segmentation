@@ -1,5 +1,5 @@
 ## [SW중심대학 공동 AI 경진대회 2023](https://dacon.io/competitions/official/236092/overview/description)
-- 위성 이미지의 건물 영역 분할(Image Segmentation)을 수행하는 AI모델을 개발
+- 위성 이미지의 건물 영역 분할을 수행하는 AI모델을 개발
 - SW중심대학 | 알고리즘 | 비전 | 객체분할 | DiceScore
 - 2023.07.03 ~ 2023.07.28
 
